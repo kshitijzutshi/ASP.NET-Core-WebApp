@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+WNdtErv1drLIBhqwPWIS5T1Bue7f/D4R1Jvp58kwhhNkbbQaZ7P2nsYi4A+g6MIjcI0G93Q6BFHe/g/4sms8A==",
+  "success": true,
+  "projectFilePath": "/Users/kshitijzutshi/Desktop/FT Job Search/COURSES/DotNetPractical/Bulky/BulkyWeb/BulkyWeb.csproj",
+  "expectedPackageFiles": [
+    "/Users/kshitijzutshi/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/kshitijzutshi/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/kshitijzutshi/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
